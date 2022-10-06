@@ -1,0 +1,192 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Ms Madi', cursive;
+}
+
+h1 {
+    font-family: 'Ms Madi', cursive;
+    color: aliceblue;
+    position: absolute;
+    top: 150px;
+    left: 900px;
+    font-size: 40px;
+
+}
+
+.part-first {
+    font-family: 'Ms Madi', cursive;
+    color: aliceblue;
+    position: absolute;
+    top: 200px;
+    left: 1000px;
+}
+
+.description {
+    font-family: 'Ms Madi', cursive;
+    font-size: 40px;
+    position: absolute;
+    top: 1200px;
+    left: 500px;
+    padding-right: 50px;
+}
+
+.first-container {
+    font-family: 'Ms Madi', cursive;
+    font-size: 40px;
+    height: 80px;
+    background-color: darkcyan;
+    padding-bottom: 50px;
+}
+
+.second-container {
+    font-family: 'Ms Madi', cursive;
+    text-align: center;
+    font-size: 40px;
+}
+
+.img-first {
+    height: 750px;
+    width: 100%;
+    padding-bottom: 150px;
+}
+
+.img-sec {
+    height: 500px;
+    width: 300px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    position: absolute;
+    left: 90px;
+}
+
+.img-thi {
+    height: 400px;
+    width: 400px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    position: absolute;
+    left: 40px;
+}
+
+.img-four {
+    height: 400px;
+    width: 400px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    position: absolute;
+    left: 500px;
+}
+
+.img-fifth {
+    height: 400px;
+    width: 450px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    position: absolute;
+    left: 950px;
+}
+
+
+.fotografia-moderna {
+    font-family: 'Ms Madi', cursive;
+    font-size: 40px;
+    position: absolute;
+    left: 80px;
+    top: 1500px;
+    padding-right: 20px;
+}
+
+.fotografia-naturaleza {
+    font-family: 'Ms Madi', cursive;
+    font-size: 40px;
+    position: absolute;
+    left: 80px;
+    top: 2050px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+}
+
+.img-pri {
+    height: 450px;
+    width: 400px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    position: absolute;
+    left: 40px;
+}
+
+.img-seg {
+    height: 450px;
+    width: 400px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    position: absolute;
+    left: 500px;
+}
+
+.img-ter {
+
+    height: 450px;
+    width: 400px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    position: absolute;
+    left: 950px;
+}
+
+.fotografia-paisajes {
+    font-family: 'Ms Madi', cursive;
+    font-size: 40px;
+    position: absolute;
+    left: 80px;
+    top: 2700px;
+    padding-right: 20px;
+    padding-bottom: 140px;
+}
+
+.img-cuar {
+    height: 450px;
+    width: 400px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    position: absolute;
+    left: 40px;
+}
+
+.img-quin {
+    height: 450px;
+    width: 400px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    position: absolute;
+    left: 500px;
+}
+
+.imag-sext {
+    height: 450px;
+    width: 400px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    position: absolute;
+    left: 950px;
+}
+
+.contact {
+    font-family: 'Ms Madi', cursive;
+    font-size: 40px;
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    top: 3400px;
+    padding-bottom: 100px;
+}
+
+.saludos {
+    color: black;
+    width: 100%;
+    position: absolute;
+    top: 250S0px;
+    left: 80px;
+    padding-bottom: 80px;
+}
